@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in python and c. I'm currently specialising in 2d graphical games. But I'm planning to possibly make some 3d games in the future. 
 - 🌱 I’m currently learning python gui/ui, and c game development, (though I am currently using Pythons pygame module, I will be converting my games to c relatively
 soon). 
-- 💞️ I’m looking to collaborate on: possibly my top down, rpg game. 
+- 💞️ I’m looking to collaborate on: my top down, rpg game. 
 - 📫 How to reach me: ibraheem.khan2004@gmail.com
 
 <!---
