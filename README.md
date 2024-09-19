@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parrotsheet123
+- 👋 Hi, I’m @Ibraheem Khan
 - 👀 I’m interested in programming in python and c. I'm currently specialising in 2d graphical games. But I'm planning to possibly make some 3d games in the future. 
 - 🌱 I’m currently learning python gui/ui, and c game development, (though I am currently using Pythons pygame module, I will be converting my games to c relatively
 soon). 
